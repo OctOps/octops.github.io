@@ -39,9 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/octops
+    url: https://twitter.com/octopsdev
   - title: facebook
-    url: http://www.facebook.com/octops
+    url: https://www.facebook.com/profile.php?id=100011391247487
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: github
