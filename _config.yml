@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: octops
-  location: Brazil
+  location: Germany
   social: Around the Web
   credits: Credits
 
@@ -53,7 +53,7 @@ address:
   - line: None
 
 # Credits content
-credits: 'We want to dockerize the whole world'
+credits: "Kubernetes 'Em all"
 
 # Build settings
 markdown: kramdown
