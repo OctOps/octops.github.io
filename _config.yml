@@ -1,9 +1,9 @@
 # Site settings
 title: Octops
-email: daniel.oliveira079@gmail.com
+email: ""
 url: https://octops.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Dockerize 'Em All"
+skills: "Building tools for the Kubernetes ecosystem and beyond"
 meta_author: Double Dragon Team
 
 # Google webmaster tools
@@ -37,20 +37,20 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/octopsdev
-  - title: facebook
-    url: https://www.facebook.com/profile.php?id=100011391247487
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: github
-    url: http://github.com/octops
+# social:
+#   - title: twitter
+#     url: https://twitter.com/octopsdev
+#   - title: facebook
+#     url: https://www.facebook.com/profile.php?id=100011391247487
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: github
+#     url: http://github.com/octops
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Florianópolis
-  - line: Santa Catarina
+  - line: None
+  - line: None
 
 # Credits content
 credits: 'We want to dockerize the whole world'
